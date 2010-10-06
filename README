@@ -1,0 +1,8 @@
+
+nollettnoll.cron is a portable utility for running cron jobs daemon-like or
+programmatically.
+
+See examples and javadoc at http://nollettnoll.net/cron
+
+/Ola Aronsson
+
